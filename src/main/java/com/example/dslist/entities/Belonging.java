@@ -15,7 +15,7 @@ public class Belonging {
 	
 	private Integer position;
 	
-	Belonging() {}
+	public Belonging() {}
 
 	public Belonging(Game game, GameList gameList, Integer position) {
 		super();
